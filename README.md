@@ -2,7 +2,7 @@
 
 ## Description
 
-Money Mover is a simple application that allows you to tranfer money from one account to another and stores the transaction history for both accounts. All calculations are done on the back-end. There are no sessions/cookies/localstorage/database being used. Both front-end and back-end have validation and API testing has been implemented using Jest and Supertest. 
+This is a simple landing page created using React for the purposes of learning Styled Components. 
 
 ## Technologies
 
