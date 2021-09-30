@@ -20,7 +20,7 @@ This is a simple landing page created using React for the purposes of learning S
 
 ## Starting the App
 
-- In the terminal navigate to the money_mover folder and then type `npm i` to ensure all dependencies are installed and then `npm start`. Example:
+- In the terminal navigate to the Hubble_Landing_Page folder and then type `npm i` to ensure all dependencies are installed and then `npm start`. Example:
 
 1. `cd /Users/KingCobra711/Desktop/Hubble_Landing_Page`
 1. `npm i` press enter
